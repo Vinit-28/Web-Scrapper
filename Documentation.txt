@@ -1,0 +1,273 @@
+
+
+
+
+
+***************     File Tab     ***************
+
+
+1. Open HTML Document
+
+" This option helps the user to open an Saved HTML document from his/her desired file location in the form of Original Document, so that it will not harm the original code. "     
+
+
+2. Open URL Bar
+
+" This option will help the user to get an HTML content of an WebPage using its Uniform Resuorce Locator ( URL ) address given by the user. You should have an active internet connection to use this feature. "     
+
+
+3. Save Original as
+
+" This option will help the user to Save OrignalDocument to his/her desired location. "     
+
+
+4. Save Duplicate
+
+" This option will help the user to save changes to his/her Duplicate Document."     
+
+
+5. Save Duplicate as
+
+" This option will help the user to Save Duplicate Document to his/her desired location. "     
+
+
+6. Save Result as
+
+" This option will help the user to Save Experiment Results in the form of a text as well as an html document to his/her desired location. "     
+
+
+7. Back to Origin
+
+" This option will restart the application again or you can say it will bring user back to the Origin.
+
+NOTE -->  This feature will remove all your Document's data. "    
+
+
+8. Exit
+
+" This option will close this application. "     
+
+
+
+
+
+***************     View Tab     ***************
+
+
+1. Normal Structure
+
+" This option will change the structure type of all the douments to Normal-Structure (By Default). Normal Structure means that there will be no relationship between any tag/tags, they will be shown as normal text lines."     
+
+
+2. Nested Sttructure
+
+" This option will change the structure type of Original Document as well as Duplicate Document to Nested-Structure. Nested Structure means that there will be an relationship between every tag/tags like, ParentTag, ChildTag, SiblingTag, etc. They will be shown in an tree like structure. "     
+
+
+3. Tags Used
+
+" This option will hepl the user to get an TagList which will include all the tags used in a particular document. "     
+
+
+4. Text Used
+
+" This option will help the user to get Whole TextDocuent while will include strings used in a particular document. "     
+
+
+5. Comments Used
+
+" This option will help the user to get all the comments used in a paricular document. "     
+
+
+6. Attributes and Values
+
+" This option will help the user to get a List of all the attributes and their corresponding values along with TagName and TagNumber used in a particular document. "     
+
+
+7. View Only Tag Names
+
+" This option will help the user to see only tag names instead of seeing their whole content( attributes, child tags, descendants, etc. ) of an particular document. "     
+
+
+8. View Tags Content
+
+" This option will help the user to see tagnames along with the conetnt( attributes, child tags, descendants, etc. ) they include of an particular document. "     
+
+
+
+
+
+***************     Search Tab     ***************
+
+
+1. Tags Using Exact Names
+
+" This option will help the user to Search Tags using their exact names of an particular document. You should use this option when you know the extact name of the tag. "     
+
+
+2. Tags Using Related Names
+
+" This option will help the user to Search Tags using some related names or the words/letters they contain ( Example : Searching link tag with word 'nk' ) of an particular document. You should use this option when you are not sure about tag name taht you want to search. "     
+
+
+3. Tags Using Attributes
+
+" This option will help the user to Search Tags using attrbutes names that they contain ( Example : Searching link tag with attribute name 'href' ) of an particular document. "     
+
+
+4. Tags Using Values
+
+" This option will help the user to Search Tags using their attribute's corresponding values ( Example : Searching link tag with 'href' value 'https://www.example.com/' ) of an particular document. "     
+
+
+5. Tags Using Number
+
+" This option will help the user to Search Tags using their numbers of ana particular document. "     
+
+
+6. Attributes Using Values
+
+" This option will help the user to Search Attributes using their Corresponding values of an particular document. "     
+
+
+7. Values Using Attributes 
+
+" This option will help the user to Search Attribute's Values using their attribute's name of an particular document. "     
+
+
+8. Close SearchBar
+
+" This option will help the user to Close Searchabr on the screen. "     
+
+
+
+
+
+***************     Navigation Tab     ***************
+
+
+1. Tag's Parent
+
+" This option will help the user to find a tag's ParenTag. "     
+
+
+2. Tag's Direct Child
+
+" This option will help the user to find a tag's direct child without going deeper into that tag's direct child's contents. This option will only reveals a tag's direct child not any of its descendants. "     
+
+
+3. Tag's Descendants
+
+" This option will help the user to find a tag's descendants (his direct child tag's contents ) including his child tag too. "     
+
+
+4. Tag's Next Sibling
+
+" This option will hepl the user to find a tag's or a page element's next sibling ( which are on the same level means both of them having same parent.) of an particular document.
+
+NOTE -->  You can use this option to Navigate between Page Elements that are on the same level. "     
+
+
+5. Tag's Previous Sibling
+
+" This option will hepl the user to find a tag's or a page element's previous sibling ( which are on the same level means both of them having same parent.) of an particular document.
+
+NOTE -->  You can use this option to Navigate between Page Elements that are on the same level. "     
+
+
+6. Tag's Next Elements
+
+" This option will help the user to find a tag's/string's thing that was parsed immediately after that string/tag of an document. "     
+
+
+7. Tag's Previous Elements
+
+" This option will help the user to find a tag's/string's thing that was parsed just before that string/tag of an document. "     
+
+
+8. Close NavigationBar
+
+" This option will help the user to close Navigationbar on the screen. "     
+
+
+
+
+
+***************     Modification Tab     ***************
+
+
+1. Modify Tag Names
+
+" This option will help the user to Modify TagNames of an particular document. "     
+
+
+2. Modify Attribute Names
+
+" This otpion will help the user to Modify Attribute's name of an tag or selected tags of an particular document. "     
+
+
+3. Modify Values
+
+" This option will help the user to Modify Tag's Attribute's Value or Selected tag's attributes values of an particular document. "     
+
+
+4. Modify String
+
+" This option will help the user to Modify a tag's String or selected tags strings of an particular document. "     
+
+
+5. Delete a Tag
+
+" This option will help the user to delete a tag ( including its contents ) fo an particular document. "     
+
+
+6. Delete Tag's Elements
+
+" This option will help the user to delete only a tag's selected elements without harming the existing tag of an particular document. "     
+
+
+7. Delete Tag's Attributes
+
+" This option will help the user to delete a tag's elected attributes without harming its other content of an particular document. "     
+
+
+8. Wrap Tags
+
+" This option will help the user to bind or wrap a tag with a new tag given by the user without harming existing tags or their contents. "     
+
+
+9. Wrap Strings
+
+" This option will help the user to bind or wrap a string with a new tag given by the user without harming existing tags or their contents. "     
+
+
+10. Unwrap Tags
+
+" This option will help the user to unwrap a tag ( it means deleting a tag's ParentTag ) without harming other elements of the tag. "     
+
+
+11. Unwrap Strings
+
+" This option will help the user to unwrap a string ( it means deleting a string's ParentTag ) without harming other elements of the tag. "     
+
+
+
+
+
+***************     Open In Browser Tab     ***************
+
+
+" This option will help the user to run their HTML code in browser by simply clicking on the this option and by saving the file at the desired location. "     
+
+
+
+
+
+***************     Themes Tab     ***************
+
+
+" This Tab/Option will help the user to change themes or Foreground and Background colors manually. It will help in better user experience."         
+
+
+
+
